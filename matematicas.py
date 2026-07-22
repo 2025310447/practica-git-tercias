@@ -4,3 +4,7 @@ print("Resultados del analisis estadistico:")
 # Desarrollado por Osvaldo - Promedio
 promedio = sum(numeros) / len(numeros)
 print(f"El promedio de la lista es: {promedio}")
+# Desarrollado por Osvaldo - Extremos
+maximo = max(numeros)
+minimo = min(numeros)
+print(f"Maximo: {maximo} | Minimo: {minimo}")
